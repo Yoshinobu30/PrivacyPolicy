@@ -1,0 +1,15 @@
+プライバシーポリシー
+アプリケーション開発者名：Yoshinobu
+アプリケーション名：懐中電灯、懐中電灯Free
+パーミッション：カメラ
+パーミッションの取得理由：
+カメラのフラッシュライトを点灯させるために必要なパーミッションです。実際には写真の撮影はしません。
+Privacy Policy
+Application Developer Name: Yoshinobu
+Appication Name: FlashLight, FlashLight Free
+Permission: Camera
+Reason for acquiring permission:
+The permission is needed to light the flsh light of the camera. Actually, do not shoot the pictures.
+
+
+https://github.com/Yoshinobu30/AndroidApp.git
